@@ -2,7 +2,7 @@
 
 Authors :  **Modou** MBAYE ;  mbaye@modou.dev
 
-![](C:/Users/ceraas/Documents/DevGithub/Capacity-Building-CERAAS-CORAF/images/logoCB.jpg)
+![] (https://drive.google.com/file/d/18GYr23DWi2eaNDWpAx6B8LDyNnvPMzdW/view?usp=sharing))
 
 This is a training courses Capacity Building for agricultural Application 
 
