@@ -1,12 +1,8 @@
 # 				**Capacity-Building-CERAAS-CORAF**
 
-Authors :  **Modou** MBAYE ;  mbaye@modou.dev
+Authors :  **Modou** MBAYE ;  mbaye@modou.dev  Ceraas/ISRA, Senegal
 
-
-
- ![](https://github.com/mmbaye/Capacity-Building-CERAAS-CORAF/blob/main/images/logoCB.jpg)
-
-
+![logo](https://github.com/mmbaye/Capacity-Building-CERAAS-CORAF/blob/main/images/logoCB.jpg?raw=true) 
 
 This is a training courses Capacity Building for agricultural Application 
 
